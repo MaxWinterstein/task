@@ -10,6 +10,9 @@
   @sounisi5011).
 - Added the [gentle force experiment](https://taskfile.dev/experiments) as a
   draft (#1200, #1216 by @pd93).
+- Added the ability to
+  [loop over commands and tasks](https://taskfile.dev/usage/#looping-over-values)
+  using `for` (#82, #1220 by @pd93).
 
 ## v3.26.0 - 2023-06-10
 
